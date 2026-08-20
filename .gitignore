@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local images / test files
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.heic
