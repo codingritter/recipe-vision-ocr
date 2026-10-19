@@ -151,10 +151,10 @@ Erwartete Ausgabe:
 ============================================================
 Recipe Vision OCR
 ============================================================
-Server:        http://0.0.0.0:11435
-Ollama:        http://127.0.0.1:11434/api/generate
-Modell:        rezept-ocr
-Max. Bild:     1400px
+Server:      http://0.0.0.0:11435
+Ollama:      http://127.0.0.1:11434/api/generate
+Modell:      rezept-ocr
+Max. Bild:   1400px
 JPEG Qualität: 78
 ============================================================
 ```
